@@ -1,0 +1,6 @@
+configVersion: 2
+settings:
+    default:
+      disabledBlocks: 
+        - DIRT
+        - DIAMOND_BLOCK

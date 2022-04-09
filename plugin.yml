@@ -1,0 +1,9 @@
+main: Main.albi.Main
+name: DisableBlockDrops
+version: 0.0.3
+description: Disable a blocks drop
+commands:
+  db:
+    description: A DisableBlockDrops command   
+    usage: /<command>
+    permissions: db.reload
